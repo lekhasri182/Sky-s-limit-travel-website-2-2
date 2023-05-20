@@ -1,0 +1,29 @@
+services {
+  text-align: center;
+}
+
+.services h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.service {
+  display: inline-block;
+  width: 300px;
+  margin: 20px;
+}
+
+.service img {
+  width: 100%;
+  height: auto;
+}
+
+.service h3 {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.service p {
+  font-size: 14px;
+  line-height: 1.5;
+}
